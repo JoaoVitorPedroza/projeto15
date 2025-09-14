@@ -1,0 +1,2 @@
+A CRUD application that works with validations using JWT
+to generate a unique token for its users, thus ensuring security in their transactions.
